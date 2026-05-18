@@ -1,0 +1,65 @@
+# ====================
+# OS-generated files
+# ====================
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ====================
+# Editor / IDE
+# ====================
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+.history/
+
+# ====================
+# Logs & runtime
+# ====================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.cache/
+.tmp/
+tmp/
+
+# ====================
+# Dependency dirs (in case anyone adds tooling later)
+# ====================
+node_modules/
+bower_components/
+vendor/
+
+# ====================
+# Build / dist output
+# ====================
+dist/
+build/
+out/
+.parcel-cache/
+.next/
+.nuxt/
+
+# ====================
+# Env & secrets
+# ====================
+.env
+.env.local
+.env.*.local
+*.pem
+
+# ====================
+# Misc
+# ====================
+.netlify/
+.vercel/
+.firebase/
